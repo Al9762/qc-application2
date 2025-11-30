@@ -1,0 +1,8 @@
+{
+  "name": "QC APPLICATION",
+  "description": "A powerful, mobile-first AI assistant powered by Google Gemini. Features Chat, Vision, and Image Generation capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
